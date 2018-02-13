@@ -1,0 +1,9 @@
+c:\users\sushilkm\source\repos\OrleansTest\GrainInterfaces1\bin\Debug\GrainInterfaces1.dll
+c:\users\sushilkm\source\repos\OrleansTest\GrainInterfaces1\bin\Debug\Orleans.dll
+c:\users\sushilkm\source\repos\OrleansTest\GrainInterfaces1\bin\Debug\System.Collections.Immutable.dll
+c:\users\sushilkm\source\repos\OrleansTest\GrainInterfaces1\bin\Debug\Orleans.xml
+c:\users\sushilkm\source\repos\OrleansTest\GrainInterfaces1\obj\Debug\GrainInterfaces1.csproj.CoreCompileInputs.cache
+c:\users\sushilkm\source\repos\OrleansTest\GrainInterfaces1\bin\Debug\GrainInterfaces1.pdb
+c:\users\sushilkm\source\repos\OrleansTest\GrainInterfaces1\obj\Debug\GrainInterfaces1.dll
+c:\users\sushilkm\source\repos\OrleansTest\GrainInterfaces1\obj\Debug\GrainInterfaces1.pdb
+c:\users\sushilkm\source\repos\OrleansTest\GrainInterfaces1\obj\Debug\GrainInterfaces1.orleans.g.cs

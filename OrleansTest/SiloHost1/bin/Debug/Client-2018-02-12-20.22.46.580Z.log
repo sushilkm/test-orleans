@@ -1,0 +1,137 @@
+[2018-02-12 20:22:48.118 GMT     1	INFO   	100000	AssemblyLoader.Client	]	Recursively searching for assemblies in c:\users\sushilkm\source\repos\OrleansTest\SiloHost1\bin\Debug...	
+[2018-02-12 20:22:48.164 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: c:\users\sushilkm\source\repos\OrleansTest\SiloHost1\bin\Debug\GrainInterfaces1.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-02-12 20:22:48.168 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: c:\users\sushilkm\source\repos\OrleansTest\SiloHost1\bin\Debug\Grains1.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-02-12 20:22:48.417 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: c:\users\sushilkm\source\repos\OrleansTest\SiloHost1\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-02-12 20:22:48.532 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: c:\users\sushilkm\source\repos\OrleansTest\SiloHost1\bin\Debug\Microsoft.CodeAnalysis.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-02-12 20:22:48.534 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: c:\users\sushilkm\source\repos\OrleansTest\SiloHost1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-02-12 20:22:48.540 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: c:\users\sushilkm\source\repos\OrleansTest\SiloHost1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-02-12 20:22:48.558 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: c:\users\sushilkm\source\repos\OrleansTest\SiloHost1\bin\Debug\Newtonsoft.Json.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-02-12 20:22:48.559 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: c:\users\sushilkm\source\repos\OrleansTest\SiloHost1\bin\Debug\Orleans.dll
+	* Assembly filename is excluded.	
+[2018-02-12 20:22:48.561 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: c:\users\sushilkm\source\repos\OrleansTest\SiloHost1\bin\Debug\OrleansCodeGenerator.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-02-12 20:22:48.569 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: c:\users\sushilkm\source\repos\OrleansTest\SiloHost1\bin\Debug\OrleansRuntime.dll
+	* Assembly filename is excluded.	
+[2018-02-12 20:22:48.585 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: c:\users\sushilkm\source\repos\OrleansTest\SiloHost1\bin\Debug\System.Collections.Immutable.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-02-12 20:22:48.588 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: c:\users\sushilkm\source\repos\OrleansTest\SiloHost1\bin\Debug\System.IO.Compression.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-02-12 20:22:48.591 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: c:\users\sushilkm\source\repos\OrleansTest\SiloHost1\bin\Debug\System.IO.FileSystem.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-02-12 20:22:48.617 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: c:\users\sushilkm\source\repos\OrleansTest\SiloHost1\bin\Debug\System.Reflection.Metadata.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-02-12 20:22:48.623 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: c:\users\sushilkm\source\repos\OrleansTest\SiloHost1\bin\Debug\System.ValueTuple.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-02-12 20:22:48.624 GMT     1	INFO   	100000	AssemblyLoader.Client	]	Loading assembly c:\users\sushilkm\source\repos\OrleansTest\SiloHost1\bin\Debug\OrleansProviders.dll...	
+[2018-02-12 20:22:48.650 GMT     1	INFO   	100000	AssemblyLoader.Client	]	1 assemblies loaded.	
+[2018-02-12 20:22:48.676 GMT     1	INFO   	100313	OutsideRuntimeClient	]	---------- Initializing OutsideRuntimeClient on sushilkm-vm-win at 172.16.2.7 Client Id = *cli/89bfce97 ----------	
+[2018-02-12 20:22:48.696 GMT     1	INFO   	100314	OutsideRuntimeClient	]	---------- Starting OutsideRuntimeClient with runtime Version='1.5.0.0 (Release).' in AppDomain=<AppDomain.Id=1, AppDomain.FriendlyName=SiloHost1.exe> Config= 
+ Platform version info:
+   Orleans version: 1.5.0.0 (Release).
+   .NET version: 4.0.30319.42000
+   OS version: Microsoft Windows NT 6.2.9200.0
+   App config file: c:\users\sushilkm\source\repos\OrleansTest\SiloHost1\bin\Debug\SiloHost1.exe.Config
+   GC Type=Server GCLatencyMode=Interactive
+   Host: sushilkm-vm-win
+   Processor Count: 4
+Client Configuration:
+   Config File Name: 
+   Start time: 2018-02-12 20:22:48.686 GMT
+   Gateway Provider: Config
+   Gateways[1]:
+      127.0.0.1:30000
+   Preferred Gateway Index: -1
+   GatewayListRefreshPeriod: 00:01:00
+   Preferred Address Family: InterNetwork
+   DNS Host Name: sushilkm-vm-win
+   Client Name: Client
+   Tracing: 
+     Default Trace Level: Info
+     TraceLevelOverrides: None
+     Trace to Console: True
+     Trace File Name: c:\users\sushilkm\source\repos\OrleansTest\SiloHost1\bin\Debug\Client-2018-02-12-20.22.46.580Z.log
+     LargeMessageWarningThreshold: 85000
+     PropagateActivityId: False
+     BulkMessageLimit: 5
+   Statistics: 
+     MetricsTableWriteInterval: 00:00:30
+     PerfCounterWriteInterval: -00:00:00.0010000
+     LogWriteInterval: 00:05:00
+     WriteLogStatisticsToTable: True
+     StatisticsCollectionLevel: Info
+   Messaging:
+       Response timeout: 00:30:00
+       Maximum resend count: 0
+       Resend On Timeout: False
+       Maximum Socket Age: 10675199.02:48:05.4775807
+       Drop Expired Messages: True
+       Client Sender Buckets: 8192
+       Buffer Pool Buffer Size: 4096
+       Buffer Pool Max Size: 10000
+       Buffer Pool Preallocation Size: 250
+       Fallback serializer: 
+   .NET: 
+       .NET thread pool sizes - Min: Worker Threads=4 Completion Port Threads=4
+       .NET thread pool sizes - Max: Worker Threads=32767 Completion Port Threads=1000
+   Providers:
+       No providers configured.
+	
+[2018-02-12 20:22:48.746 GMT     4	INFO   	101309	Messaging.GatewayManager	]	Found 1 knownGateways from Gateway listProvider [gwy.tcp://127.0.0.1:30000/0]	
+[2018-02-12 20:22:49.820 GMT     4	WARNING	100178	Messaging.GatewayConnection/GatewayClientSender_gwy.tcp://127.0.0.1:30000/0	172.16.2.7:0]	Unable to connect to gateway at address gwy.tcp://127.0.0.1:30000/0 on trial 0 (Exception: Could not connect to 127.0.0.1:30000: ConnectionRefused)	
+[2018-02-12 20:22:49.823 GMT     4	WARNING	100913	Messaging.GatewayConnection/GatewayClientSender_gwy.tcp://127.0.0.1:30000/0	172.16.2.7:0]	Marking gateway at address gwy.tcp://127.0.0.1:30000/0 as Disconnected	
+[2018-02-12 20:22:49.835 GMT     6	INFO   	101309	Messaging.GatewayManager	172.16.2.7:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2/12/2018 8:22:48 PM	
+[2018-02-12 20:22:50.835 GMT     4	WARNING	100178	Messaging.GatewayConnection/GatewayClientSender_gwy.tcp://127.0.0.1:30000/0	172.16.2.7:0]	Unable to connect to gateway at address gwy.tcp://127.0.0.1:30000/0 on trial 1 (Exception: Could not connect to 127.0.0.1:30000: ConnectionRefused)	
+[2018-02-12 20:22:50.839 GMT     4	WARNING	100913	Messaging.GatewayConnection/GatewayClientSender_gwy.tcp://127.0.0.1:30000/0	172.16.2.7:0]	Marking gateway at address gwy.tcp://127.0.0.1:30000/0 as Disconnected	
+[2018-02-12 20:22:50.841 GMT     6	INFO   	101309	Messaging.GatewayManager	172.16.2.7:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:30000/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:30000/0]. Previous refresh time was = 2/12/2018 8:22:49 PM	
+[2018-02-12 20:22:50.843 GMT     4	WARNING	100912	Messaging.GatewayConnection/GatewayClientSender_gwy.tcp://127.0.0.1:30000/0	172.16.2.7:0]	Marking gateway at address gwy.tcp://127.0.0.1:30000/0 as Dead in my client local gateway list.	
+[2018-02-12 20:22:50.858 GMT     4	WARNING	100157	CallbackData	172.16.2.7:0]	The target silo became unavailable for message: Request *cli/89bfce97@4449ca8d->S127.0.0.1:30000:0TypeManagerId@S00000011 #2: global::Orleans.Runtime.IClusterTypeManager:GetClusterTypeCodeMap(). Target History is: <S127.0.0.1:30000:0:TypeManagerId:@S00000011>. See https://aka.ms/orleans-troubleshooting for troubleshooting help. About to break its promise.	
+[2018-02-12 20:22:50.878 GMT     5	WARNING	100011	OutsideRuntimeClient	172.16.2.7:0]	No callback for response message: Unrecoverable Rejection (info: Target silo S127.0.0.1:30000:0 is unavailable) Response S127.0.0.1:30000:0TypeManagerId@S00000011->*cli/89bfce97@4449ca8d #2: global::Orleans.Runtime.IClusterTypeManager:GetClusterTypeCodeMap()	
+[2018-02-12 20:22:50.898 GMT     1	INFO   	100000	OutsideRuntimeClient	172.16.2.7:0]	OutsideRuntimeClient.Reset(): client Id *cli/89bfce97	
+[2018-02-12 20:22:50.931 GMT     1	INFO   	100704	ClientLogStatistics	172.16.2.7:0]	Statistics: ^^^
+Client.ConnectedGatewayCount=0
+Messaging.Expired.AtDispatch.Current=0
+Messaging.Expired.AtInvoke.Current=0
+Messaging.Expired.AtReceive.Current=0
+Messaging.Expired.AtRespond.Current=0
+Messaging.Expired.AtSend.Current=0
+Messaging.Received.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Received.Bytes.Header.Current=0
+Messaging.Received.Bytes.Total.Current=0
+Messaging.Received.Direction.OneWay.Current=0
+Messaging.Received.Direction.Request.Current=0
+Messaging.Received.Direction.Response.Current=0
+Messaging.Received.Messages.Total.Current=0
+Messaging.Received.MessageSizeHistogram.Bytes=
+Messaging.Rejected.Request.Current=1
+Messaging.Rerouted.OneWay.Current=0
+Messaging.Rerouted.Request.Current=0
+Messaging.Rerouted.Response.Current=0
+Messaging.Sent.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Sent.Bytes.Header.Current=0
+Messaging.Sent.Bytes.Total.Current=0
+Messaging.Sent.Direction.OneWay.Current=0
+Messaging.Sent.Direction.Request.Current=0
+Messaging.Sent.Direction.Response.Current=0
+Messaging.Sent.Messages.Total.Current=0
+Messaging.Sent.MessageSizeHistogram.Bytes=
+Networking.Sockets.ClientToGateway.Duplex.Closed.Current=2
+Networking.Sockets.ClientToGateway.Duplex.Opened.Current=0
+Serialization.BufferPool.AllocatedBuffers.Current=250
+Serialization.BufferPool.BuffersInPool=218
+Serialization.BufferPool.CheckedInBuffers.Current=250
+Serialization.BufferPool.CheckedOutBuffers.Current=282
+Serialization.BufferPool.DroppedBuffers.Current=0
+Serialization.BufferPool.DroppedTooLargeBuffers.Current=0
+Serialization.BufferPool.InUse.AllocatedAndNotInPool_Buffers=32
+Serialization.BufferPool.InUse.CheckedOutAndNotCheckedIn_Buffers=32
+	
+[2018-02-12 20:22:50.941 GMT     1	INFO   	100000	OutsideRuntimeClient	172.16.2.7:0]	OutsideRuntimeClient.ConstructorReset(): client Id *cli/89bfce97	
